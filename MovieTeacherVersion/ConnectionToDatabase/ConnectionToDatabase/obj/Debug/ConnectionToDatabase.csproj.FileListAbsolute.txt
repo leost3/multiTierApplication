@@ -1,0 +1,10 @@
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\bin\Debug\ConnectionToDatabase.exe.config
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\bin\Debug\ConnectionToDatabase.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\bin\Debug\ConnectionToDatabase.pdb
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.csprojAssemblyReference.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.Form1.resources
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.Properties.Resources.resources
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.csproj.GenerateResource.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\MovieTeacherVersion\ConnectionToDatabase\ConnectionToDatabase\obj\Debug\ConnectionToDatabase.pdb

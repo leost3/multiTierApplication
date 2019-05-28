@@ -1,0 +1,7 @@
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\bin\Debug\HeyPerson.exe.config
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\bin\Debug\HeyPerson.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\bin\Debug\HeyPerson.pdb
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\obj\Debug\HeyPerson.csprojAssemblyReference.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\obj\Debug\HeyPerson.csproj.CoreCompileInputs.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\obj\Debug\HeyPerson.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\HeyPerson\HeyPerson\obj\Debug\HeyPerson.pdb

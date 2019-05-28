@@ -1,0 +1,6 @@
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\bin\Debug\moVIE.exe.config
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\bin\Debug\moVIE.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\bin\Debug\moVIE.pdb
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\obj\Debug\moVIE.csproj.CoreCompileInputs.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\obj\Debug\moVIE.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\moVIE\moVIE\obj\Debug\moVIE.pdb

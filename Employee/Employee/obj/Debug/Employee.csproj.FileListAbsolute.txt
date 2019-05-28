@@ -1,0 +1,10 @@
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.GUI.FormEmployee.resources
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\leo_s\Desktop\Lasalle\dotNET\Employee\Employee\obj\Debug\Employee.pdb
