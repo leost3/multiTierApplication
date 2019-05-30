@@ -1,0 +1,10 @@
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\bin\Debug\ConnectionToDB.exe.config
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\bin\Debug\ConnectionToDB.exe
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\bin\Debug\ConnectionToDB.pdb
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.csprojAssemblyReference.cache
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.Form1.resources
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.Properties.Resources.resources
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.csproj.GenerateResource.cache
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.csproj.CoreCompileInputs.cache
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.exe
+E:\Lasalle\420-DA3\Lea\ConnectionToDB\ConnectionToDB\obj\Debug\ConnectionToDB.pdb
